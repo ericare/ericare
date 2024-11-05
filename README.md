@@ -6,6 +6,8 @@
 - 💬 Me pergunte sobre **Python, PowerBI e SQL**
 
 - 📄 Me conheça através do Linkedin [https://www.linkedin.com/in/erica-roldao/](https://www.linkedin.com/in/erica-roldao/)
+  
+- ⚡ Sou formada em **Física** pela UFRGS
 
 <p align="left">
 </p>
@@ -34,4 +36,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+FONNTES DE README: 
+> https://www.youtube.com/watch?v=vw1JzSpB1Aw&t=900s
+> https://rahuldkjain.github.io/gh-profile-readme-generator/
+
 -->
