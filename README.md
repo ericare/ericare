@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, eu sou a Érica</h1>
-<h3 align="center">Apaixonada por ciência e análise de dados</h3>
+<h1 align="left">Oi 👋, eu sou a Érica</h1>
+<h3 align="left">Apaixonada por ciência e análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Tunning de hiperparâmetros e Redes Neurais**
 
